@@ -42,3 +42,4 @@ catalunha@pop-os:~/myapp/agendarep_js$
 catalunha@pop-os:~/myapp/agendarep_js$ node index.js 
 ```
 
+https://www.stanleyulili.com/node/node-modules-import-and-use-functions-from-another-file/
